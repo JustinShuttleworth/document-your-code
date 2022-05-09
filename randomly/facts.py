@@ -36,3 +36,8 @@ def generate_random_fact(output_format: str, language: str):
         )
 
     return fact
+
+
+def test():
+    print('hi')
+    return 'world'
